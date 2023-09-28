@@ -4,9 +4,9 @@ import Form from "./Form";
 
 function App() {
   return (
-    <>
-     <Form />
-    </>
+   <div>
+    <img src={photo} style={{ height:'100%',width:'100%',objectFit:'cover'}} alt='comming Soon'></img>
+    </div>
   );
 }
 
