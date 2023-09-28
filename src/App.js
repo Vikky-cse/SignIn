@@ -1,4 +1,5 @@
-import Form from "./Form";
+import photo from './Copy of Black Retro Comming Soon (Your Story).png'
+
 
 
 
